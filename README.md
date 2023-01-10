@@ -15,7 +15,7 @@ Some of the key features of the web application include:
 - Management of PMKS and PSKS data
 - Dashboard for administrators
 
-You can access the live website at https://kartasarijadi.com, and the API documentation at https://kartasolv-docs.github.io.
+You can access the live website at https://kartasarijadi.com, and the API documentation at https://docs.kartasarijadi.com.
 
 
 
